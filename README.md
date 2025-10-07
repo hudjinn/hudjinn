@@ -51,7 +51,7 @@ Sou Analista GIST (Geoinformática) e Desenvolvedor FullStack Python com vasta e
      - Containerização com **Docker**  
   2. **SIGWeb e Dashboards**
      - Implementação de **WebSIG interativo**  
-     - Uso de **Leaflet** e **WFS/WMS do GeoServer**  
+     - Uso de **Leaflet/Openlayers** e **WFS/WMS do GeoServer**  
      - Dashboards analíticos integrando dados espaciais  
   3. **Banco de Dados e Processamento Espacial**
      - Modelagem e estruturação de bancos de dados georreferenciados  
