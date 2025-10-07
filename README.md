@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Sou Analista GIST (Geoinformática) e Desenvolvedor FullStack Python com vasta experiência em implementação de processos ETL, administração de bancos de dados geográficos e criação de soluções eficientes utilizando Python e Postgres. Tenho uma paixão por análise geoespacial e desenvolvimento de software, com habilidades destacadas em gestão de projetos e desenvolvimento de soluções FullStack.
+Sou Analista GIST (Geoinformática) e Desenvolvedor FullStack Python com vasta experiência em implementação de processos ETL, administração de bancos de dados geográficos e criação de soluções eficientes utilizando Python e Postgres. Tenho uma paixão por análise geoespacial e desenvolvimento de software, com habilidades destacadas em gestão de projetos e desenvolvimento de soluções FullStack, com ênfase em Flask.
 
 ## Competências Técnicas
 
