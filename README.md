@@ -6,74 +6,108 @@ Sou Analista GIST (Geoinformática) e Desenvolvedor FullStack Python com vasta e
 
 ## Competências Técnicas
 
-- **Linguagens de Programação**: Python, Java, Visual Basic, JavaScript
-- **Banco de Dados**: Postgres, PostGIS, MySQL
-- **Geoinformática**: QGIS, GeoServer, GeoNode, Google Earth Pro
-- **DevOps**: Docker, AWS
-- **Outras Ferramentas**: Open Data Kit, ERDAS, Power BI
+- **Linguagens de Programação**: Python, Java, Visual Basic, JavaScript  
+- **Banco de Dados**: Postgres, PostGIS, MySQL  
+- **Geoinformática**: QGIS, GeoServer, GeoNode, Google Earth Pro  
+- **DevOps**: Docker, AWS  
+- **Outras Ferramentas**: Open Data Kit, ERDAS, Power BI  
 
 ## Alguns dos meus Projetos
 
 ### [download_dem](https://github.com/hudjinn/download_dem)
-- **Descrição**: Script para download de dados de elevação digital, e, em breve, com funcionalidades para extração de drenagem e curvas de nível automatizadas.
-- **Tecnologias**: Python
+- **Descrição**: Script para download de dados de elevação digital, e, em breve, com funcionalidades para extração de drenagem e curvas de nível automatizadas.  
+- **Tecnologias**: Python  
 
 ### [banco-impactos](https://github.com/hudjinn/banco-impactos)
-- **Descrição**: Banco de dados projetados para armazenamento de formulários sobre impactos e percepção de seca.
-- **Tecnologias**: PLpgSQL
+- **Descrição**: Banco de dados projetados para armazenamento de formulários sobre impactos e percepção de seca.  
+- **Tecnologias**: PLpgSQL  
 
 ### [gera_formulario](https://github.com/hudjinn/gera_formulario)
-- **Descrição**: Ferramenta para geração de formulários sobre impactos e percepção de seca, bem como o carregamento dos dados no banco-impactos.
-- **Tecnologias**: HTML
+- **Descrição**: Ferramenta para geração de formulários sobre impactos e percepção de seca, bem como o carregamento dos dados no banco-impactos.  
+- **Tecnologias**: HTML  
 
 ### [SysAdm](https://github.com/hudjinn/SysAdm)
-- **Descrição**: Sistema CRUD de agendamento de consultas - Avaliação da disciplina do Projeto Integrador 4 em Engenharia de Software.
-- **Tecnologias**: HTML, Java, Javascript, Python
+- **Descrição**: Sistema CRUD de agendamento de consultas - Avaliação da disciplina do Projeto Integrador 4 em Engenharia de Software.  
+- **Tecnologias**: HTML, Java, Javascript, Python  
 
 ### [geonode](https://github.com/hudjinn/geonode)
-- **Descrição**: Implementação de GeoNode para disponibilização de dados geoespaciais.
-- **Tecnologias**: Python, HTML
+- **Descrição**: Implementação de GeoNode para disponibilização de dados geoespaciais.  
+- **Tecnologias**: Python, HTML  
 
 ### [webgis](https://github.com/hudjinn/webgis)
-- **Descrição**: Testes de WebGIS utilizando OpenLayers.
-- **Tecnologias**: JavaScript
+- **Descrição**: Testes de WebGIS utilizando OpenLayers.  
+- **Tecnologias**: JavaScript  
 
 ## Experiência Profissional
 
-### Cientista Pesquisador na Fundação ASTEF
-- **Período**: Abril/2022 - Abril/2023 e Agosto/2023 - Atual
-- **Atividades**: Implementação de processos ETL, aquisição e gestão de dados de estações meteorológicas, criação de serviços de dados espaciais, elaboração de documentação técnica.
+### Analista de Sistemas — Euroserv Business
+- **Período**: Julho/2024 - Atual
+- **Principais atividades**:
+  1. **Desenvolvimento de Plataforma Web**
+     - Backend com **Flask (Python)**  
+     - Integração com **PostgreSQL + PostGIS**  
+     - Publicação de serviços geográficos via **GeoServer**  
+     - Criação de **API REST** para sistemas externos  
+     - Containerização com **Docker**  
+  2. **SIGWeb e Dashboards**
+     - Implementação de **WebSIG interativo**  
+     - Uso de **Leaflet** e **WFS/WMS do GeoServer**  
+     - Dashboards analíticos integrando dados espaciais  
+  3. **Banco de Dados e Processamento Espacial**
+     - Modelagem e estruturação de bancos de dados georreferenciados  
+     - Aplicação de funções **PostGIS**: `ST_Intersection`, `ST_Simplify`, `ST_Transform`, `ST_MakeValid`  
+     - Criação de **views**, **índices espaciais** e consultas otimizadas  
+     - Padronização de projeções e integração de múltiplas fontes  
+  4. **Gestão de Camadas e Catálogos**
+     - Organização de **catálogo de camadas e arquivos** no GeoServer  
+     - Automação de publicação e estilização via **SLD**, incluindo buffers difusos  
+     - Administração de **workspaces e permissões**  
+  5. **Infraestrutura e DevOps**
+     - Implantação e manutenção de containers: **Nginx**, **PostgreSQL/PostGIS**, **Flask**, **GeoServer**  
+     - Configuração de **Nginx interno e externo**  
+     - Uso de **Supabase** para banco de dados remoto  
+     - Versionamento com **Git/GitHub**  
+  6. **Visualização e Interfaces**
+     - Desenvolvimento de **interfaces interativas** integradas ao Flask  
+     - Adaptação de front-end conforme identidade visual institucional  
+     - Criação de **componentes dinâmicos** com dropdowns, sliders e animações  
 
-### Analista de Sistemas Geográficos na Funceme
-- **Período**: Setembro de 2019 - Março de 2022
-- **Atividades**: Desenvolvimento e administração de banco de dados em PostGIS, elaboração de manuais e relatórios, vetorização de dados geoespaciais.
+### Cientista Pesquisador — Fundação ASTEF
+- **Período**: Abril/2022 - Abril/2023 e Agosto/2023 - Maio/2024
+- **Atividades principais**:
+  - Implementação de **processos ETL**  
+  - Aquisição e gestão de dados de estações meteorológicas  
+  - Criação de serviços de dados espaciais  
+  - Elaboração de documentação técnica  
+
+### Analista de Sistemas Geográficos — Funceme
+- **Período**: Setembro/2019 - Março/2022
+- **Atividades principais**:
+  - Desenvolvimento e administração de banco de dados em **PostGIS**  
+  - Elaboração de manuais e relatórios  
+  - Vetorização e análise de dados geoespaciais  
 
 ## Formação Acadêmica
 
-### Análise e Desenvolvimento de Sistemas
-- **Instituição**: UNIFAMETRO
-- **Período**: Fevereiro de 2022 - Julho de 2024
-
-### Geoprocessamento Aplicado à Análise Ambiental e Recursos Hídricos
-- **Instituição**: UECE
-- **Período**: Julho de 2018 - Maio de 2023
-
-### Geografia - Bacharelado
-- **Instituição**: UECE
-- **Período**: Junho de 2007 - Fevereiro de 2012
+- **Análise e Desenvolvimento de Sistemas** — UNIFAMETRO (Fev/2022 - Jul/2024)  
+- **Geoprocessamento Aplicado à Análise Ambiental e Recursos Hídricos** — UECE (Jul/2018 - Mai/2023)  
+- **Geografia - Bacharelado** — UECE (Jun/2007 - Fev/2012)  
 
 ## Cursos Complementares
 
-- **AWS Fundamentals** - Amazon Web Services (Maio de 2023)
-- **Power BI - Fundamentos** - UFC (Março de 2023)
-- **Bootcamp Linux Experience** - DIO (Agosto de 2022)
-- **Topografia com Drones** - Geodata Engenharia (Junho de 2022)
-- **Gestão de Projetos** - Escola de Gestão Pública do Estado do Ceará (Junho de 2022)
+- **AWS Fundamentals** — Amazon Web Services (Mai/2023)  
+- **Power BI - Fundamentos** — UFC (Mar/2023)  
+- **Bootcamp Linux Experience** — DIO (Ago/2022)  
+- **Topografia com Drones** — Geodata Engenharia (Jun/2022)  
+- **Gestão de Projetos** — Escola de Gestão Pública do Estado do Ceará (Jun/2022)  
+
+## Hobbies e Atividades Extras
+
+- Impressão 3D com **Cura** e **Ender 3 V2 SE**  
+- Pintura de miniaturas  
+- Noções intermediárias em **Photoshop**  
+- Edição de vídeo com **Vegas Pro 15**  
 
 ## Contato
 
-- [**LinkedIn**](https://www.linkedin.com/in/jefferson-galv%C3%A3o-87003770/)
-
----
-
-Obrigado por visitar meu perfil no GitHub! Sinta-se à vontade para explorar meus projetos e entrar em contato para colaborações ou oportunidades profissionais.
+- [LinkedIn](https://www.linkedin.com/in/jefferson-galv%C3%A3o-87003770/)
